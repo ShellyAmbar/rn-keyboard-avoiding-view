@@ -1,6 +1,6 @@
 {
   "name": "rn-keyboard-avoiding-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dynamic view that response to the keyboard and pushing the inner view with the height differences between the tapped position and the keyboard position.",
   "main": "keyboard-avoiding-view/keyboard-avoiding-view.tsx",
   "scripts": {
